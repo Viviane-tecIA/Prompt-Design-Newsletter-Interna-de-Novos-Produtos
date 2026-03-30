@@ -1,56 +1,55 @@
-​🧩 Prompt Design: Newsletter Interna de Novos Produtos
-​Este repositório apresenta a resolução da Etapa 4 do Desafio Criativo, estruturada em etapas para garantir a padronização e a eficiência na comunicação de novos produtos digitais.
-​📍 Etapa 1: Definição da Persona
-​Para este desafio, a IA foi configurada com a seguinte persona estratégica:
-​Papel: Especialista em Comunicação Interna de produtos digitais.
-​Missão: Criar comunicações claras, escaneáveis e acionáveis para o público interno, garantindo o alinhamento das equipes.
-​📍 Etapa 2: O Prompt Template (O Modelo Replicável)
-​Este é o comando estruturado para que qualquer membro do time possa gerar newsletters padronizadas.
-​Você é um(a) especialista em Comunicação Interna de produtos digitais. Seu objetivo é criar uma newsletter interna para divulgação de novos produtos/funcionalidades, com linguagem clara, escaneável e acionável.
-​🎯 Objetivo
-Gerar uma newsletter pronta para publicar a partir dos dados fornecidos, mantendo consistência semanal.
-​🧠 Regras
-​Escreva para público interno (colaboradores), com tom claro, direto e motivador.
-​Explique siglas na primeira vez que aparecerem (ex: SSO - Single Sign-On).
-​Não invente informações: se algo estiver faltando, marque como “⚠️ Informação pendente”.
-​Use títulos curtos e bullets quando fizer sentido.
-​Use português do Brasil.
-​🧾 Formato obrigatório de saída
-(Conforme estrutura de Títulos, Novidades, Resumo Executivo e FAQ).
-​📍 Etapa 3: Dados de Entrada (Inputs do Teste)
-​Dados utilizados para validar a eficácia do prompt criado conforme o roteiro do desafio:
-​Período: 03 a 07 de março.
-​Tema Geral: Melhorias para acelerar onboarding e adoção de produtos internos.
-​Produto 1: Portal de Onboarding 2.0 (Rollout 30%).
-​Produto 2: Catálogo de Produtos Internos (Lançado).
-​📍 Etapa 4: Exemplo Final (A Newsletter Gerada)
-​Resultado final entregue pela IA após processar os dados acima:
-​📰 Newsletter Interna — Novidades de Produto (03 a 07 de março)
-​👋 Abertura
-​Nesta semana, focamos em acelerar nossa eficiência com melhorias cruciais no onboarding e na adoção de nossos produtos internos. O objetivo é garantir que cada colaborador tenha as ferramentas certas à mão desde o primeiro dia.
-​🚀 Novidades da semana
-​⭐ Portal de Onboarding 2.0
-​O que é: Nova área centralizada com trilhas por função e checklists automatizados.
-​Por que isso importa: Reduz dúvidas recorrentes e diminui o tempo necessário para produtividade inicial.
-​Pra quem é: Novos colaboradores e gestores responsáveis pelo processo de integração.
-​Como acessar/usar: Acesse via Intranet > Pessoas > Onboarding.
-​Status: Em rollout (disponível para 30% das áreas).
-​Links úteis: Portal de Onboarding | Docs
-​📣 CTA interno: Testem a trilha da sua área e enviem seu feedback no canal #onboarding-feedback no Slack.
-​⭐ Catálogo de Produtos Internos
-​O que é: Página única centralizando todos os produtos internos, seus proprietários e guias rápidos.
-​Por que isso importa: Ajuda a encontrar as ferramentas certas rapidamente e evita o retrabalho entre os times.
-​Pra quem é: Todos os times da organização.
-​Como acessar/usar: Acesse via Intranet > Produtos.
-​Status: Lançado oficialmente.
-​Links úteis: Catálogo de Produtos
-​📣 CTA interno: Favorite a página e sugira produtos que ainda não constam na lista via formulário interno.
-​🧠 Resumo executivo
-​Centralização de processos de onboarding para acelerar a produtividade.
-​Lançamento do catálogo único para otimizar a localização de ferramentas.
-​Foco em transparência e acessibilidade de recursos digitais internos.
+​🧩 Entrega Etapa 4: Prompt Design - Newsletter Interna 2026
+​Este repositório contém a solução final para o Desafio Criativo, estruturada para transformar informações técnicas em uma comunicação estratégica e humanizada (Comunicação 4.0).
+​📍 1. O Prompt Master (Template Replicável)
+​Instrução: Copie o texto abaixo e cole na sua IA para gerar newsletters padronizadas.
+​Papel: Aja como um(a) Especialista em Comunicação Interna e Facilitador(a) de Produtos Digitais.
+Missão: Traduzir informações técnicas complexas em valor de negócio, reduzindo a ansiedade das equipes e garantindo transparência radical.
+​Regras de Ouro:
+​Tom de Voz: Profissional, empático e visionário.
+​Inclusão: Explique siglas na primeira menção e use metáforas para perfis não técnicos.
+​Veracidade: Se faltar um dado obrigatório (*), escreva: “⚠️ Informação pendente”.
+​Escaneabilidade: Use frases curtas, negritos e bullets.
+​Estrutura de Saída:
+​📰 Newsletter Interna — [NOME DO LANÇAMENTO]
+​👋 Abertura (Contexto estratégico)
+​🚀 O que há de novo?
+​O que é:
+​Por que isso importa: (Valor e dor resolvida)
+​Pra quem é: (Públicos segmentados)
+​Como acessar: (Passo a passo)
+​Status: (Lançado/Beta/Rollout)
+​🧠 Resumo Executivo (3 bullets de impacto)
 ​❓ FAQ rápido
-​Como sei se minha área já tem acesso ao Portal 2.0? O acesso está sendo liberado gradualmente; consulte seu gestor para verificar o cronograma da sua diretoria.
-​📬 Encerramento
-​Estamos construindo uma cultura de transparência e agilidade. Se tiver dúvidas, procure o time de Comunicação Interna ou utilize os canais de feedback mencionados!
-​Projeto desenvolvido por: Viviane Setiba - Embaixadora DIO Campus Expert.
+​📣 Ação Imediata (CTA)
+​📍 2. Dados de Entrada (Respostas das Lacunas)
+​Informações preenchidas com base nas tendências estratégicas de 2026:
+​Nome do Lançamento: Estratégia de Comunicação Interna 2026: IA e Transparência Radical.
+​Problema que ele resolve (*): O desafio histórico de engajar lideranças como comunicadores e provar o valor real (ROI) da comunicação para a diretoria.
+​Funcionalidades principais (*): Uso de IA Generativa para criação ágil de conteúdo, segmentação profunda para o público operacional e rituais de conversa sistematizados.
+​Times impactados (*): Lideranças imediatas, time operacional (ponta/campo) e áreas administrativas.
+​Como acessar/testar (*): Através da nova aba na Intranet, Newsletter semanal e Chatbots de suporte 24h.
+​Links de documentação: Relatório de Tendências Aberje/Ação Integrada 2026.
+​Canal para dúvidas (Slack/Teams): Canal oficial #agentes-comunicação.
+​Ação esperada agora (*): Adotar o modelo de Mensuração de Impacto baseado em dados e fatos para influenciar a tomada de decisão.
+​Dados adicionais ou técnicos: 60% do tempo dos profissionais de CI em 2026 será focado na gestão estratégica de canais.
+​📍 3. Resposta de Saída (Exemplo Gerado pela IA)
+​Resultado final do processamento das informações acima:
+​📰 Newsletter Interna — Estratégia CI 2026
+​👋 Abertura
+​Nesta semana, iniciamos uma nova era na nossa comunicação organizacional. O foco de 2026 é integrar a Inteligência Artificial para humanizar nossas relações, garantindo que a informação certa chegue a todos, com transparência total.
+​🚀 Novidades da semana
+​⭐ IA e Transparência Radical
+​O que é: Implementação de ferramentas de IA para criação de conteúdos e assistentes virtuais de suporte.
+​Por que isso importa: Resolve a necessidade de provar o valor estratégico (ROI) para a liderança e agiliza a resposta aos colaboradores.
+​Pra quem é: Gestores (como embaixadores da cultura) e colaboradores da operação.
+​Como acessar: Disponível via Intranet atualizada e novos canais no Teams/Slack.
+​Status: Em rollout (implementação gradual para todas as unidades).
+​🧠 Resumo Executivo
+​Eficiência com IA: Automação de tarefas repetitivas para focar em estratégia.
+​Segmentação Real: Comunicação direta para o público de campo, sem excesso de e-mails.
+​Cultura de Dados: Uso de métricas reais para medir o engajamento e o sucesso do negócio.
+​❓ FAQ rápido
+​A IA vai substituir meu trabalho? Não, ela funciona como um braço direito para ganharmos agilidade; o tom humano e a empatia continuam sendo nossos diferenciais.
+​📣 Ação Imediata (CTA)
+​Líderes, reservem os primeiros 15 minutos da sua próxima reunião de time para apresentar esses novos pilares de 2026!
+​Desenvolvido por: Viviane Setiba - Embaixadora DIO Campus Expert.
