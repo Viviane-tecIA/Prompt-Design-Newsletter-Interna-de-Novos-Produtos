@@ -53,3 +53,8 @@ Missão: Traduzir informações técnicas complexas em valor de negócio, reduzi
 ​📣 Ação Imediata (CTA)
 ​Líderes, reservem os primeiros 15 minutos da sua próxima reunião de time para apresentar esses novos pilares de 2026!
 ​Desenvolvido por: Viviane Setiba - Embaixadora DIO Campus Expert.
+​🛠️ Processo de Desenvolvimento e Engenharia de Prompt
+​Este projeto não foi criado apenas com instruções simples; ele utiliza uma arquitetura de curadoria baseada em Grounding (ancoragem de dados).
+​Ferramenta Utilizada: NotebookLM (Google)
+​Metodologia: Foram carregadas fontes de documentação técnica, notas de comunicação interna e diretrizes de alta performance no NotebookLM. O prompt foi refinado pela IA a partir desses documentos específicos, garantindo que a saída fosse livre de alucinações e 100% alinhada à Comunicação Interna 4.0.
+​Acesse o ambiente de desenvolvimento: > 🔗 Projeto de Newsletter Interna no NotebookLM
