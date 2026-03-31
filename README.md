@@ -58,3 +58,4 @@ Missão: Traduzir informações técnicas complexas em valor de negócio, reduzi
 ​Ferramenta Utilizada: NotebookLM (Google)
 ​Metodologia: Foram carregadas fontes de documentação técnica, notas de comunicação interna e diretrizes de alta performance no NotebookLM. O prompt foi refinado pela IA a partir desses documentos específicos, garantindo que a saída fosse livre de alucinações e 100% alinhada à Comunicação Interna 4.0.
 ​Acesse o ambiente de desenvolvimento: > 🔗 Projeto de Newsletter Interna no NotebookLM
+Link para acessar: https://notebooklm.google.com/notebook/8699c580-ee83-4133-9a21-c306ed0bd627
