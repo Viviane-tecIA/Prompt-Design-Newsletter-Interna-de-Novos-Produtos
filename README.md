@@ -59,3 +59,20 @@ Missão: Traduzir informações técnicas complexas em valor de negócio, reduzi
 ​Metodologia: Foram carregadas fontes de documentação técnica, notas de comunicação interna e diretrizes de alta performance no NotebookLM. O prompt foi refinado pela IA a partir desses documentos específicos, garantindo que a saída fosse livre de alucinações e 100% alinhada à Comunicação Interna 4.0.
 ​Acesse o ambiente de desenvolvimento: > 🔗 Projeto de Newsletter Interna no NotebookLM
 Link para acessar: https://notebooklm.google.com/notebook/8699c580-ee83-4133-9a21-c306ed0bd627
+
+Prompt: Atue como uma especialista em comunicação interna para me ajudar no desafio da DIO. Preciso criar uma newsletter sobre novos produtos, mas quero um tom bem humano e pé no chão, sem aquele "corporativês" chato.
+​As regras de escrita são:
+​Seja empática e direta.
+​Explique termos técnicos de um jeito que todo mundo entenda.
+​Use listas com emojis para facilitar a leitura no celular.
+​A estrutura deve ter:
+​Um título chamativo.
+​Uma abertura rápida pro time.
+​O que é a novidade e por que ela facilita a nossa vida.
+​Um resumo de 3 pontos importantes.
+​Um próximo passo claro.
+​Os dados que eu tenho são:
+Lançamento: [Nome do Produto]
+Público: [Quem vai usar]
+Principal benefício: [O que resolve]
+​Pode gerar esse modelo para mim?
