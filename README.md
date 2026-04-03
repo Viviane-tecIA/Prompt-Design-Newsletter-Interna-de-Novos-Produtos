@@ -76,3 +76,4 @@ Lançamento: [Nome do Produto]
 Público: [Quem vai usar]
 Principal benefício: [O que resolve]
 ​Pode gerar esse modelo para mim?
+Além de criar os prompsts também pesquisei por fontes e esta tudo nesse link do NotebookLM. 
